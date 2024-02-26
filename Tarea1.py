@@ -7,7 +7,7 @@ Edades = [
      [61,51,18]
 ]
 
-# Buscar un valor especifico en la matriz
+# Buscar un valor especifico en la matriz.
 valor_buscado = 51
 # Inicializacion de variables para rastrear la posicion del valor
 fila_encontrada = -1
