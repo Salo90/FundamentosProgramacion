@@ -37,7 +37,7 @@ temperaturas = [
 ]
 print(f"::::Temperaturas para cada ciudad y semana::::\n")
 
-
+#Definimos la funcion
 def calcular_prom_ciudad(temp_ciudades):
     num_ciudades = len(temp_ciudades)
     num_semanas = len(temp_ciudades[0])
@@ -57,5 +57,5 @@ def calcular_prom_ciudad(temp_ciudades):
 
     return promedios_ciudades
 
-# Utilizar la función con el ejemplo proporcionado
+# Utilizar la función
 promedios = calcular_prom_ciudad(temperaturas)

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f965960-fa50-4a03-b386-fade2cc469aa" name="Changes" comment="Primera version">
-      <change afterPath="$PROJECT_DIR$/temperatura_funcion.py" afterDir="false" />
+    <list default="true" id="5f965960-fa50-4a03-b386-fade2cc469aa" name="Changes" comment="Primera version 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temperatura_funcion.py" beforeDir="false" afterPath="$PROJECT_DIR$/temperatura_funcion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,11 +121,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709527335515</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Primera version 1">
+      <option name="closed" value="true" />
+      <created>1710023386020</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710023386020</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primera version" />
+    <MESSAGE value="Primera version 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primera version 1" />
   </component>
 </project>
