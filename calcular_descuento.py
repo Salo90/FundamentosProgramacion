@@ -7,7 +7,7 @@ def calcular_descuento(monto_total_compra, porc_descuento=10):
     descuento = monto_total_compra * (porc_descuento / 100)
     return descuento
 
-# Llamadas a la función calcular_descuento desde el programa principal.
+# Llamadas a la función calcular_descuento desde el programa principal
 monto_compra = 200.00
 #monto_descuento = calcular_descuento(monto_compra)
 #monto_final_compra = monto_compra - monto_descuento
