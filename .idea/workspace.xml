@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f965960-fa50-4a03-b386-fade2cc469aa" name="Changes" comment="Primera version 1">
-      <change afterPath="$PROJECT_DIR$/calcular_descuento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diccionario_personal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.Tarea1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcular_descuento.executor&quot;: &quot;Run&quot;,
     &quot;Python.temperatura_funcion.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -138,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710023502331</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Primera version 1">
+      <option name="closed" value="true" />
+      <created>1710472682436</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710472682436</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Primera version 1">
+      <option name="closed" value="true" />
+      <created>1710472910032</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710472910032</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
